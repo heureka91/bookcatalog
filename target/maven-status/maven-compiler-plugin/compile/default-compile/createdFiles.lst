@@ -1,0 +1,10 @@
+hu\nye\progkor\bookcatalog\data\model\Book.class
+hu\nye\progkor\bookcatalog\data\repository\Repository.class
+hu\nye\progkor\bookcatalog\BookCatalogApplication.class
+hu\nye\progkor\bookcatalog\web\controller\BookCatalogRestController.class
+hu\nye\progkor\bookcatalog\web\configuration\WebConfiguration.class
+hu\nye\progkor\bookcatalog\web\controller\BookCatalogController.class
+hu\nye\progkor\bookcatalog\data\repository\impl\InMemoryBookRepository.class
+hu\nye\progkor\bookcatalog\service\impl\DefaultBookService.class
+hu\nye\progkor\bookcatalog\data\model\Genre.class
+hu\nye\progkor\bookcatalog\service\BookService.class

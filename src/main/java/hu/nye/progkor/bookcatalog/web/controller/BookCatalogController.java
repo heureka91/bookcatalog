@@ -121,11 +121,4 @@ public class BookCatalogController {
         return LIST_VIEW;
     }
 
-    /**
-     * Redirect root to book list.
-     */
-    @GetMapping("/")
-    public String redirectRoot() {
-        return "redirect:/book-catalog/list";
-    }
 }
